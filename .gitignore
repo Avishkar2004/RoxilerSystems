@@ -1,0 +1,30 @@
+# Node / backend
+server/node_modules/
+server/dist/
+server/.env
+server/*.log
+
+# Client / React
+client/node_modules/
+client/dist/
+client/build/
+client/.env
+client/*.log
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+*.swo
+
+# IDE / tooling
+.vscode/
+.idea/
+.cursor/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
